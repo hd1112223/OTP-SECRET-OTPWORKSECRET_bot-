@@ -11,7 +11,7 @@ import uuid
 from telethon import TelegramClient, functions, types, errors
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "8536127888:AAGyoPOpBZLpzY2TD1lFgy5iXXa5I0S8NQo"
+BOT_TOKEN = "8536127888:AAHNeqPOoIVjhHaiFly1HVincN6CgmkJS90"
 ADMIN_ID = 6908091275
 ADMIN_USERNAME = "@rikton16"
 API_ID = 27699293
